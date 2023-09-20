@@ -1,7 +1,0 @@
-usuarios con rol user
-usuario: user, password: user
-usuario: belen, password: belen
-
-usuario sin rol user
-usuario:usernorol, password: usernorol
-

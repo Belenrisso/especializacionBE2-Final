@@ -22,7 +22,7 @@ spring:
         registration:
           keycloak-provider:
             client-id: api-gateway-client
-            client-secret: 5PNh1Rw5A2FPc5EqyrqZkG8o1cdV18YX
+            client-secret: Wb3hNXlMV0tfXMhQYGwtkLXRrdQxhOXm
             scope:
               - openid
             authorization-grant-type: authorization_code
@@ -41,7 +41,12 @@ spring:
             - Path= /api/v1/**
           filters:
             - StripPrefix=2
-
+        - id: ms-users
+          uri: http://localhost:8081
+          predicates:
+            - Path=/api/v1/users/**
+          filters:
+            - StripPrefix=2
 
 #spring:
 #  application:

@@ -1,0 +1,14 @@
+C:\Users\Belen\Desktop\Esp v3\RissoBelen-Final\ms-users\src\main\java\com\example\msusers\repository\FeignBillRepository.java
+C:\Users\Belen\Desktop\Esp v3\RissoBelen-Final\ms-users\src\main\java\com\example\msusers\configuration\KeyCloakJwtAuthenticationConverter.java
+C:\Users\Belen\Desktop\Esp v3\RissoBelen-Final\ms-users\src\main\java\com\example\msusers\configuration\feign\OAuthClientCredentialsFeignManager.java
+C:\Users\Belen\Desktop\Esp v3\RissoBelen-Final\ms-users\src\main\java\com\example\msusers\configuration\KeycloakClientConfiguration.java
+C:\Users\Belen\Desktop\Esp v3\RissoBelen-Final\ms-users\src\main\java\com\example\msusers\domain\Bill.java
+C:\Users\Belen\Desktop\Esp v3\RissoBelen-Final\ms-users\src\main\java\com\example\msusers\MsUsersApplication.java
+C:\Users\Belen\Desktop\Esp v3\RissoBelen-Final\ms-users\src\main\java\com\example\msusers\repository\IUserRepository.java
+C:\Users\Belen\Desktop\Esp v3\RissoBelen-Final\ms-users\src\main\java\com\example\msusers\service\UserService.java
+C:\Users\Belen\Desktop\Esp v3\RissoBelen-Final\ms-users\src\main\java\com\example\msusers\domain\User.java
+C:\Users\Belen\Desktop\Esp v3\RissoBelen-Final\ms-users\src\main\java\com\example\msusers\controller\UserController.java
+C:\Users\Belen\Desktop\Esp v3\RissoBelen-Final\ms-users\src\main\java\com\example\msusers\configuration\feign\OAuthFeignConfig.java
+C:\Users\Belen\Desktop\Esp v3\RissoBelen-Final\ms-users\src\main\java\com\example\msusers\configuration\OAuth2ResourceServerSecurityConfiguration.java
+C:\Users\Belen\Desktop\Esp v3\RissoBelen-Final\ms-users\src\main\java\com\example\msusers\repository\KeyCloakUserRepository.java
+C:\Users\Belen\Desktop\Esp v3\RissoBelen-Final\ms-users\src\main\java\com\example\msusers\repository\BillRepository.java
